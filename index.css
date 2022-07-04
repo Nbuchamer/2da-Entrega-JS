@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: rgb(166, 233, 65);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color: rgb(249, 253, 23);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    color: lawngreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cerveza{
+    color: lightyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.vinoTinto{
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.aperitivos{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.vinoBlanco{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.whisky{
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subtitulo{
+    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(94,102,222,1) 35%, rgba(0,0,0,1) 100%);
+}
+div{
+    color: rgb(166, 233, 65);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tarjeta {
+    border-style: solid;
+    border-color: rgb(27, 31, 253);
+    border-width: 2px;
+    border-radius: 10px;
+    color: white;
+    width: 50%;
+    margin-top: 1rem;
+    display: inline-block;
+    padding: 1rem;
+  }
