@@ -49,6 +49,9 @@ div{
     color: rgb(166, 233, 65);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.separador {
+    height: 7rem;
+  }
 .tarjeta {
     border-style: solid;
     border-color: rgb(27, 31, 253);
